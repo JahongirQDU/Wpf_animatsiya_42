@@ -24,13 +24,13 @@
                 <StackPanel>
                     <Button Height="50" Width="100" 
                             VerticalAlignment="Center"  
-                            Click="Kattalashtirish_Animatsiyasi"> Kattalashtir11</Button>
+                            Click="Kattalashtirish_Animatsiyasi"> Kattalashtir1</Button>
                     <Button Height="50" Width="100" 
         VerticalAlignment="Center"  
-        Click="Kattalashtirish_Animatsiyasi1">Kattalashtir22</Button>
+        Click="Kattalashtirish_Animatsiyasi1">Kattalashtir2</Button>
                     <Button Height="50" Width="100" 
         VerticalAlignment="Center"  
-        Click="Kattalashtirish_Animatsiyasi_Stop">Kattalashtir</Button>
+        Click="Kattalashtirish_Animatsiyasi_Stop">Kattalashtir3</Button>
                 </StackPanel>
                     
             </StackPanel>
