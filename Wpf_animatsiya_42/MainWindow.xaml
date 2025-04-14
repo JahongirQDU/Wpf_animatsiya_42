@@ -24,7 +24,7 @@
                 <StackPanel>
                     <Button Height="50" Width="100" 
                             VerticalAlignment="Center"  
-                            Click="Kattalashtirish_Animatsiyasi"> Kattalashtir1</Button>
+                            Click="Kattalashtirish_Animatsiyasi"> Kattalashtir111</Button>
                     <Button Height="50" Width="100" 
         VerticalAlignment="Center"  
         Click="Kattalashtirish_Animatsiyasi1">Kattalashtir2</Button>
